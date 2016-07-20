@@ -1,0 +1,37 @@
+body{
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 134, 243));
+}
+
+li{
+  font: pink;
+  font-size: 3.5em;
+  text-shadow: 20px 20px black;
+  text-decoration: overline;
+}
+hr{
+  font: pink;
+  font-size: 6.5em;
+}
+
+h2{
+  font: black;
+  font-size: 6.5em;
+  text-shadow: 20px 20px black;
+  text-decoration: underline;
+}
+h1{
+  font: black;
+  font-size: 12.5em;
+  text-shadow: 40px 40px black;
+
+}
+h4{
+  font: black;
+  font-size: 25em;
+  text-shadow: 60px 60px black;
+  text-decoration: underline;
+}
+
+.btn{
+  width:97.5vw;
+}
